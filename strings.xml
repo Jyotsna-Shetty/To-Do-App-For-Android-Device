@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do!</string>
+    <string name="Heading">Your To Do List</string>
+    <string name="add_button_text">Add Item</string>
+    <string name="enter_a_new_task">Enter a new task</string>
+    <string name="text">TextView</string>
+</resources>
